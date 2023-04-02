@@ -1,3 +1,4 @@
 first line!
 second line!
 on dev: Third line!
+on newBranch: Forth line!
