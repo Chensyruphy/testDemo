@@ -4,3 +4,4 @@ on dev: Third line!
 on master: Forth line!
 
 on master: Fixed problem!
+To push it into the origin!
